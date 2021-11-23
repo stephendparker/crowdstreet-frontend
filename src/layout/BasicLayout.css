@@ -1,0 +1,19 @@
+.page-content {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+} 
+
+.header {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.05);
+} 
+
+.footer-content {
+    padding: 10px;
+}
